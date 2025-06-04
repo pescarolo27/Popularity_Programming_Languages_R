@@ -7,3 +7,4 @@ You'll work with a dataset containing one observation per tag per year, includin
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Machine learning was not applied in this project.
+This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
