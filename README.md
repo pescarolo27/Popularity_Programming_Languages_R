@@ -6,7 +6,5 @@ One excellent data source is Stack Overflow, a programming question-and-answer 
 **Purpose:** In this project, you will use data from the Stack Exchange Data Explorer to examine how the relative popularity of R, Python, Java, and JavaScript has changed over time. 
 You'll work with a dataset containing one observation per tag per year, including the number of questions for that tag and the total number of questions that year.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project.
+This project was done in June, 2025. Machine learning was not applied in this project.
 This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
